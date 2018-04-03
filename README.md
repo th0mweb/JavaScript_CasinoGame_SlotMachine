@@ -1,2 +1,2 @@
 # JavaScript_CasinoGame_SlotMachine
-Author: th0mweb & LindermanLD
+Authors: th0mweb & LindermanLD
